@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dota Fragments Navigation</string>
+    <string name="character_list_title">Персонажи</string>
+    <string name="character_info_title">Характеристики</string>
+    <string name="about_title">О приложении</string>
+    <string name="github_link"><a href="https://github.com/z1r3ael">github.com/z1r3ael</a></string>
+</resources>
