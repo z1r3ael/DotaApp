@@ -9,5 +9,5 @@
  - Coil
  - Save to file
  - Fragments
-
+ 
 Дополнительно добавил APK файл.
